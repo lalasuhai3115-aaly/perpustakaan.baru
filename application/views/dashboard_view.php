@@ -5,7 +5,7 @@
 <style>
   /* 1. Background Halaman Utama */
   .content-wrapper {
-    background-image: url('<?= base_url("assets_style/image/bukulonjong.jpeg"); ?>');
+    background-image: url('<?= base_url("assets_style/image/langitlonjong.jpg"); ?>');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -32,10 +32,10 @@
   }
   .kertas-custom .icon { color: rgba(62, 39, 35, 0.15) !important; }
 
-  .kertas-merah { background-image: url('<?= base_url("assets_style/image/merah.jpg"); ?>'); background-color: #f8d7da; }
-  .kertas-biru { background-image: url('<?= base_url("assets_style/image/ungu.jpg"); ?>'); background-color: #d1ecf1; }
-  .kertas-kuning { background-image: url('<?= base_url("assets_style/image/kuning.jpg"); ?>'); background-color: #fff3cd; }
-  .kertas-hijau { background-image: url('<?= base_url("assets_style/image/ijo.jpg"); ?>'); background-color: #d4edda; }
+  .kertas-merah { background-image: url('<?= base_url("assets_style/image/sakuramerah.jpg"); ?>'); background-color: #f8d7da; }
+  .kertas-biru { background-image: url('<?= base_url("assets_style/image/sakurahitam.jpg"); ?>'); background-color: #d1ecf1; }
+  .kertas-kuning { background-image: url('<?= base_url("assets_style/image/sakurablur.jpg"); ?>'); background-color: #fff3cd; }
+  .kertas-hijau { background-image: url('<?= base_url("assets_style/image/sakuraputih.jpg"); ?>'); background-color: #d4edda; }
 
   /* =========================================================
      4. CSS UNTUK KUIS LITERASI (TAMPILAN BARU DIPERBAIKI)
@@ -66,7 +66,7 @@
     font-family: 'Geneva', Tahoma, Geneva, Verdana, sans-serif;
     /* Tumpuk gambar latar belakang: Rakun di atas, Bintang di bawah */
     background-image: 
-        url('<?= base_url("assets_style/image/rakun.png"); ?>'),
+        url('<?= base_url("assets_style/image/mimpi.jpg"); ?>'),
         url('<?= base_url("assets_style/image/bg_starry.jpg"); ?>');
     background-color: #2b3343; /* Fallback color */
     

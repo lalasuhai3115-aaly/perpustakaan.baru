@@ -90,7 +90,7 @@
       background-color: rgba(255, 255, 255, 0.1) !important;
   }
 </style>
-<aside class="main-sidebar" style="background-image: url('<?php echo base_url();?>assets_style/image/bukupanjang.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+<aside class="main-sidebar" style="background-image: url('<?php echo base_url();?>assets_style/image/pohon.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
         <section class="sidebar">
             <div class="user-panel">
         <div class="pull-left image">

@@ -2,7 +2,7 @@
 <style>
     /* 1. Menargetkan wrapper utama konten halaman ini */
     .content-wrapper {
-        background-image: url('<?= base_url('assets_style/image/bukulonjong.jpeg'); ?>');
+        background-image: url('<?= base_url('assets_style/image/sakurakuning.jpg'); ?>');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -75,7 +75,7 @@
     /* Menargetkan wrapper utama konten halaman ini */
     .content-wrapper {
         /* Menggunakan base_url() untuk path gambar */
-        background-image: url('<?= base_url('assets_style/image/bukulonjong.jpeg'); ?>');
+        background-image: url('<?= base_url('assets_style/image/sakurakuning.jpg'); ?>');
         
         /* Pengaturan agar background terlihat bagus */
         background-size: cover;      /* Gambar menutupi seluruh area */
