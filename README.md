@@ -2,11 +2,11 @@
 
 
 ![Tampilan Dashboard perpusN](assets_style/userpassword.png)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232045.png)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232058.png)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232114.png)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232135.png)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232149.png)
+![Tampilan Dashboard perpusN](assets_style/tampilandasbord.png)
+![Tampilan Dashboard perpusN](assets_style/daftardatauser.png)
+![Tampilan Dashboard perpusN](assets_style/tambahuser.png)
+![Tampilan Dashboard perpusN](assets_style/databuku.png)
+![Tampilan Dashboard perpusN](assets_style/denda.png)
 
 
 ## ❓ Kenapa Websitenya Nggak Bisa Langsung Dipakai Pak?
